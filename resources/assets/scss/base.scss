@@ -1,0 +1,9 @@
+$primary-color: #2ecc71;
+$primary-text-color: #ecf0f1;
+$accent-color: #34495e;
+
+body {
+  background-color: rgba(52,73,94,1);
+  background: @include filter-gradient(#34495e, #2ecc71, vertical);
+  background: @include background-image(linear-gradient(top, rgba(52,73,94,1) 0%, rgba(46,204,113,1) 100%));
+}

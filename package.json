@@ -24,6 +24,7 @@
     "adonis-middleware": "^1.0.10",
     "adonis-websocket": "^1.0.2",
     "nuxt": "latest",
+    "sass-loader": "^5.0.1",
     "standard": "^8.6.0",
     "youch": "^2.0.4"
   },
@@ -43,6 +44,7 @@
     "eslint-plugin-html": "^2.0.0",
     "eslint-plugin-promise": "^3.4.0",
     "eslint-plugin-standard": "^2.0.1",
+    "node-sass": "^4.5.0",
     "nodemon": "^1.11.0",
     "standard": "^8.6.0"
   }

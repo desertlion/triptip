@@ -7,7 +7,7 @@ module.exports = {
   ** Headers of the page
   */
   head: {
-    title: 'Adonuxt',
+    title: 'TripTip',
     meta: [
       {
         charset: 'utf-8'
@@ -23,11 +23,8 @@ module.exports = {
       }
     ],
     link: [
-      {
-        rel: 'icon',
-        type: 'image/x-icon',
-        href: 'favicon.ico'
-      }
+      { rel: 'icon', type: 'image/x-icon', href: 'favicon.ico' },
+      { rel: 'stylesheet', type: 'text/css', href: 'https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' }
     ]
   },
   /*
